@@ -1,0 +1,11 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "This is just creating a server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darsi Gangothri",
+  "license": "ISC"
+}
